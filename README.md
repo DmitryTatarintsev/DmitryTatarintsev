@@ -57,28 +57,36 @@
 ## Education
 
 - 📖 **Data Science**\
-📆 2022 - 2023\
-📍 **Yandex Practicum** - Moscow, Russia\
 📆 2023 - 2024\
-📍 **Neural University** - Moscow, Russia
+📍 **Neural University** - Moscow, Russia\
+📆 2022 - 2023\
+📍 **Yandex Practicum** - Moscow, Russia
+
+- 📖 **Economist**\
+📆 2016 - 2019\
+📍 **SPb GBPOU College of Banking and Information Systems** - Saint Petersburg, Russia
 
 ## Experience
 
 - 👨‍💻 **Data Science**\
 📆 may/2024 - moment\
-📍 **ООО «Айкон софт»** - Moscow, Russia
+📍 **Icon Soft LLC** - Moscow, Russia
 
 - 👨‍💻 **Data Science**\
-📆 jan/2024 - may/2024\
-📍 **АО «Автомобильный завод „Урал“»** - Moscow, Russia
+📆 2024 - 2024\
+📍 **JSC Automobile Plant Ural** - Moscow, Russia
 
 - 👨‍💻 **Data Science**\
-📆 mar/2023 - dec/2023\
-📍 **ООО "Экосистема Альфа"** - Moscow, Russia
+📆 2023 - 2023\
+📍 **Ecosystem Alpha LLC** - Moscow, Russia
 
 - 👨‍💻 **Data Science**\
-📆 feb/2022 - mar/2023\
-📍 **INO СPE «Yandex EdTech»** - Moscow, Russia
+📆 2022 - 2023\
+📍 **INO СPE Yandex EdTech** - Moscow, Russia
+
+- 👨‍💻 **Deputy warehouse manager**\
+📆 2020 - 2022\
+📍 **GC EcoDorSnab** - Saint Petersburg, Russia
 
 --------------------------------
 
