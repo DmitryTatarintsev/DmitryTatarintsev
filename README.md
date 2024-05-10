@@ -52,8 +52,7 @@
   <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-RTX%202060S-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 
-
-<br/><br/>
+<br/>
 
 ## Education
 
