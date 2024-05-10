@@ -7,11 +7,11 @@
 
 ## ⚙️ GitHub Analytics
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitryTatarintsev&theme=default)](https://github.com/DmitryTatarintsev/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitryTatarintsev&theme=default)](https://github.com/DmitryTatarintsev/DmitryTatarintsev/tree/main/profile-summary-card-output/github-profile-summary-cards)
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DmitryTatarintsev&theme=default)](https://github.com/DmitryTatarintsev/github-profile-summary-cards) [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DmitryTatarintsev&theme=default)](https://github.com/DmitryTatarintsev/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DmitryTatarintsev&theme=default)](https://github.com/DmitryTatarintsev/DmitryTatarintsev/tree/main/profile-summary-card-output/github-profile-summary-cards) [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DmitryTatarintsev&theme=default)](https://github.com/DmitryTatarintsev/DmitryTatarintsev/tree/main/profile-summary-card-output/github-profile-summary-cards)
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitryTatarintsev&theme=default)](https://github.com/DmitryTatarintsev/github-profile-summary-cards) [![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DmitryTatarintsev&theme=default&utcOffset=8)](https://github.com/DmitryTatarintsev/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitryTatarintsev&theme=default)](https://github.com/DmitryTatarintsev/DmitryTatarintsev/tree/main/profile-summary-card-output/github-profile-summary-cards) [![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DmitryTatarintsev&theme=default&utcOffset=8)](https://github.com/DmitryTatarintsev/DmitryTatarintsev/tree/main/profile-summary-card-output/github-profile-summary-cards)
 
 
 --------------------------------
