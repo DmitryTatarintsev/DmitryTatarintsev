@@ -26,7 +26,6 @@
   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-4A8B99.svg?logo=pandas&logoColor=white"></a>
   <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-4A8B99.svg?logo=matplotlib-python&logoColor=white"></a>
   <a href="#"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-4A8B99.svg?logo=pandas&logoColor=white"></a>
-  <a href="#"><img alt="plotly" src="https://img.shields.io/badge/plotly-4A8B99.svg?logo=plotly-python&logoColor=white"></a>
   <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-4A8B99.svg?logo=scipy&logoColor=white"></a>
   <a href="#"><img alt="sklearn" src="https://img.shields.io/badge/sklearn-4A8B99.svg?logo=scikitlearn&logoColor=white"></a>
   <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-4A8B99.svg?logo=TensorFlow&logoColor=white"></a>
@@ -41,7 +40,7 @@
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-4A8B99.svg?logo=visual-studio-code&logoColor=white"></a>
   <a href="#"><img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-4A8B99.svg?logo=Powerbi&logoColor=white"></a>
   <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-4A8B99.svg?logo=docker&logoColor=white"></a>
-  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Google%20Colab-4A8B99.svg?logo=Google-Colab&logoColor=white"></a>
+  <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-4A8B99.svg?logo=Google-Colab&logoColor=white"></a>
 
 --------------------------------
 
