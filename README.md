@@ -4,15 +4,14 @@
 </a>
 
 ------------------------------
-
-## ⚙️ GitHub Analytics
-
+<details>
+<summary><h2>⚙️ GitHub Analytics</h2></summary>
 
 [![](https://raw.githubusercontent.com/DmitryTatarintsev/DmitryTatarintsev/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/DmitryTatarintsev/DmitryTatarintsev/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/DmitryTatarintsev/DmitryTatarintsev/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/DmitryTatarintsev/DmitryTatarintsev/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/DmitryTatarintsev/DmitryTatarintsev/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-
+</details>
 
 --------------------------------
 #### 💻 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
@@ -45,7 +44,7 @@
 --------------------------------
 
 <p align='center'>
-  💻 My workspace<br/><br/>
+  💻 Workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%2011th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
@@ -71,8 +70,6 @@ My hobbies: keywords, fillwords, Sudoku, strategic computer games. Paradox Inter
 Favorite movies: “The Imitation Game”, “Oppenheimer”, “A Beautiful Mind”.
 
 I love running, swimming, visiting museums and traveling with my family.
-
-</details>
 
 ## Education
     
@@ -107,6 +104,8 @@ I love running, swimming, visiting museums and traveling with my family.
 - 👨‍💻 **Deputy warehouse manager**\
 📆 2020 - 2022\
 📍 **GC EcoDorSnab** - Saint Petersburg, Russia
+
+</details>
 
 --------------------------------
 
