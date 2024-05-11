@@ -52,14 +52,10 @@
   <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-RTX%202060S-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 
-<br/>
-
 <details>
-
 <summary><h2>About me</h2></summary>
 
 <img align='right' src="https://github.com/DmitryTatarintsev/DmitryTatarintsev/blob/main/my-face.png" width="230" />
-<br/> 
 
 **Former manager, Economist. 2 years in Data Science. Student. More than 15 projects completed. I love active leisure and strategy games.ヾ(•ω•`)o**
 
@@ -77,11 +73,11 @@ Favorite movies: “The Imitation Game”, “Oppenheimer”, “A Beautiful Min
 
 I love running, swimming, visiting museums and traveling with my family.
 
-</ul>
 </details>
 
-## Education
-
+<details>
+<summary><h2>Education</h2></summary>
+    
 - 📖 **Data Science**\
 📆 2023 - 2024\
 📍 **Neural University** - Moscow, Russia\
@@ -91,6 +87,7 @@ I love running, swimming, visiting museums and traveling with my family.
 - 📖 **Economist**\
 📆 2016 - 2019\
 📍 **SPb GBPOU College of Banking and Information Systems** - Saint Petersburg, Russia
+</details>
 
 ## Experience
 
