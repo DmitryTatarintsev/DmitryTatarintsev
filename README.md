@@ -61,7 +61,7 @@ I'm Dmitry Tatarintsev from St. Petersburg, Russia. 28 years old. I got into dat
 
 But I soon realized that I liked Data Science much more than my main activity - economics and management. Here I can reveal my full potential and bring a lot of benefit. Therefore, I decided to change my profession. My goal is to become a leading international data scientist by 2030. But my English is not as good as I would like. And I'm still working on my networking skills. These are temporary problems.
 
-During this time, I managed to participate in real projects in all major areas: AI, Computer Vision, Bots, ML, LLM. Advise colleagues. Wrote applications and integrated them into production. Defended diploma in computer vision. My experience allows the team to complete the project and train newcomers faster.
+During this time, I managed to participate in real projects in all major areas: AI, Computer Vision, Chat Bots, ML, LLM. Advise colleagues. Wrote applications and integrated them into production. Defended diploma in computer vision. My experience allows the team to complete the project and train newcomers faster.
 
 My hobbies: keywords, fillwords, Sudoku, strategic computer games. Paradox Interactive makes the best games. Love it so much. This allows you to grow above yourself, relieve stress, and take a breather after a difficult day at work. Develops the brain.
 
