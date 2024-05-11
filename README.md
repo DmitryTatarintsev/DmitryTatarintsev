@@ -65,7 +65,7 @@ During this time, I managed to participate in real projects in all major areas: 
 
 My hobbies: keywords, fillwords, Sudoku, strategic computer games. Paradox Interactive makes the best games. Love it so much. This allows you to grow above yourself, relieve stress, and take a breather after a difficult day at work. Develops the brain.
 
-Favorite movies: “The Imitation Game”, “Oppenheimer”, “A Beautiful Mind”. These are great films about scientists. All the characters in these films are data scientists in one way or another. Great for motivation!
+Favorite movies: “The Imitation Game”, “Oppenheimer”, “A Beautiful Mind”. These are great films about scientists. All the characters in these films are data scientists in one way or another. It's nice to be part of those who are moving humanity into a bright future. Great for motivation!
 
 I love running, swimming, visiting museums and traveling with my family. Comprehensive rest allows me to maintain good spirits and motivation for myself and the whole team.
 
