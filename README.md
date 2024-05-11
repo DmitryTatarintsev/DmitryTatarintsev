@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/DmitryTatarintsev">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=25&duration=2000&pause=50&multiline=true&width=900&height=190&lines=;Dmitry+Tatarintsev;Data+Science+Student+from+Russia;AI+%7C+Computer+Vision+%7C+Bots;ML+%7C+LLM" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=25&duration=2000&pause=50&multiline=true&width=900&height=190&lines=;Dmitry+Tatarintsev;Middle+Data+Scientist;AI+%7C+Computer+Vision+%7C+Chat+Bots;ML+%7C+LLM" alt="Typing SVG" />
 </a>
 
 ------------------------------
