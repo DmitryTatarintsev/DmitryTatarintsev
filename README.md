@@ -75,8 +75,7 @@ I love running, swimming, visiting museums and traveling with my family.
 
 </details>
 
-<details>
-<summary><h2>Education</h2></summary>
+## Education
     
 - 📖 **Data Science**\
 📆 2023 - 2024\
@@ -87,7 +86,6 @@ I love running, swimming, visiting museums and traveling with my family.
 - 📖 **Economist**\
 📆 2016 - 2019\
 📍 **SPb GBPOU College of Banking and Information Systems** - Saint Petersburg, Russia
-</details>
 
 ## Experience
 
