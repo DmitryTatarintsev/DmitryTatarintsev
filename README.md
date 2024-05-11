@@ -57,19 +57,17 @@
 
 **Former manager, Economist. 2 years in Data Science. Student. More than 15 projects completed. I love active leisure and strategy games.ヾ(•ω•`)o**
 
-I'm Dmitry Tatarintsev from St. Petersburg, Russia. 28 years old. I got into data science because I wanted to develop my skills in analytics, mathematics, and working with data sets.
-
-This was important for career advancement; They wanted to make me the main warehouse manager at the production site.
+I'm Dmitry Tatarintsev from St. Petersburg, Russia. 28 years old. I got into data science because I wanted to develop my skills in analytics, mathematics, and working with data sets. This was important for career advancement; They wanted to make me the main warehouse manager at the production site.
 
 But I soon realized that I liked Data Science much more than my main activity - economics and management. Here I can reveal my full potential and bring a lot of benefit. Therefore, I decided to change my profession. My goal is to become a leading international data scientist by 2030. But speaking English skills are seriously lacking.
 
-During this time, I managed to participate in real projects in all major areas: AI, Computer Vision, Bots, ML, LLM. Advise colleagues. Wrote applications and integrated them into production. Defended diploma in computer vision.
+During this time, I managed to participate in real projects in all major areas: AI, Computer Vision, Bots, ML, LLM. Advise colleagues. Wrote applications and integrated them into production. Defended diploma in computer vision. My experience allows the team to complete the project and train newcomers faster.
 
-My hobbies: keywords, fillwords, Sudoku, strategic computer games. Paradox Interactive makes the best games. Love it so much.
+My hobbies: keywords, fillwords, Sudoku, strategic computer games. Paradox Interactive makes the best games. Love it so much. This allows you to grow above yourself and relieve stress. Develops the brain.
 
-Favorite movies: “The Imitation Game”, “Oppenheimer”, “A Beautiful Mind”.
+Favorite movies: “The Imitation Game”, “Oppenheimer”, “A Beautiful Mind”. These are great films about scientists. All the characters in these films are data scientists in one way or another. Great for motivation!
 
-I love running, swimming, visiting museums and traveling with my family.
+I love running, swimming, visiting museums and traveling with my family. Comprehensive rest allows me to maintain good spirits and motivation for myself and the whole team.
 
 ## Education
     
