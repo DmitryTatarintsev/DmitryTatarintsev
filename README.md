@@ -74,7 +74,7 @@ I love running, swimming, visiting museums and traveling with my family.
 ## Education
     
 - 📖 **Data Science**\
-📆 2023 - 2024\
+📆 2023 - moment
 📍 **Neural University** - Moscow, Russia\
 📆 2022 - 2023\
 📍 **Yandex Practicum** - Moscow, Russia
