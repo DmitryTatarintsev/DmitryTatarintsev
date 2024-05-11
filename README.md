@@ -55,7 +55,7 @@
 
 <img align='right' src="https://github.com/DmitryTatarintsev/DmitryTatarintsev/blob/main/my-face.png" width="230" />
 
-**Former manager, Economist. 2 years in Data Science. More than 15 projects completed. Love active leisure and strategy games.**
+**Former manager, Economist. 2 years in Data Science. More than 15 projects completed. Love active leisure, strategy games and documentaries.**
 
 I'm Dmitry Tatarintsev from St. Petersburg, Russia. 28 years old. I got into data science because I wanted to develop my skills in analytics, mathematics, and working with data sets. This was important for career advancement; They wanted to make me the main warehouse manager at the production site.
 
