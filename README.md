@@ -59,7 +59,7 @@
 
 I'm Dmitry Tatarintsev from St. Petersburg, Russia. 28 years old. I got into data science because I wanted to develop my skills in analytics, mathematics, and working with data sets. This was important for career advancement; They wanted to make me the main warehouse manager at the production site.
 
-But I soon realized that I liked Data Science much more than my main activity - economics and management. Here I can reveal my full potential and bring a lot of benefit. Therefore, I decided to change my profession. My goal is to become a leading international data scientist by 2030. But speaking English skills are seriously lacking.
+But I soon realized that I liked Data Science much more than my main activity - economics and management. Here I can reveal my full potential and bring a lot of benefit. Therefore, I decided to change my profession. My goal is to become a leading international data scientist by 2030. But my English is not as good as I would like. This is a temporary problem.
 
 During this time, I managed to participate in real projects in all major areas: AI, Computer Vision, Bots, ML, LLM. Advise colleagues. Wrote applications and integrated them into production. Defended diploma in computer vision. My experience allows the team to complete the project and train newcomers faster.
 
