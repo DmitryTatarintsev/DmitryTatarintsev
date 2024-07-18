@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/DmitryTatarintsev">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=25&duration=2000&pause=50&multiline=true&width=900&height=190&lines=;Dmitry+Tatarintsev;Data+Scientist;AI+%7C+Computer+Vision+%7C+Chat+Bots;ML+%7C+Classification+%7C+NLP" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=25&duration=2000&pause=50&multiline=true&width=900&height=100&lines=;Dmitry+Tatarintsev;Data+Scientist+%7C+Junior+CV+Engineer" alt="Typing SVG" />
 </a>
 
 ------------------------------
@@ -55,19 +55,48 @@
 
 <img align='right' src="https://github.com/DmitryTatarintsev/DmitryTatarintsev/blob/main/my-face.png" width="230" />
 
-**Former manager, Economist. 2 years in Data Science. More than 15 projects completed. Love active leisure, strategy games and documentaries.**
+**CV Engineer | Data Science Enthusiast**
 
-I'm Dmitry Tatarintsev from St. Petersburg, Russia. 28 years old. I got into data science because I wanted to develop my skills in analytics, mathematics, and working with data sets. This was important for career advancement; They wanted to make me the main warehouse manager at the production site.
+Saint Petersburg, Russia | dtatarintsev@gmail.com | Telegram: @dtatarintsev
 
-But I soon realized that I liked Data Science much more than my main activity - economics and management. Here I can reveal my full potential and bring a lot of benefit. Therefore, I decided to change my profession. My goal is to become a leading international data scientist by 2030. But my English is not as good as I would like. And I'm still working on my networking skills. These are temporary problems.
+About Me:
 
-During this time, I managed to participate in real projects in all major areas: AI, Computer Vision, Chat Bots, ML, LLM. Advise colleagues. Wrote applications and integrated them into production. Defended diploma in computer vision. My experience allows the team to complete the project and train newcomers faster.
+I'm Dmitry Tatarintsev from St. Petersburg, Russia. 28 years old. I am a highly motivated data science enthusiast with 3 years of experience in various AI areas, including Computer Vision, Machine Learning, and Large Language Models. My passion for computer vision led me to pursue a Junior CV Engineer position, where I can leverage my skills in object detection, YOLOv9, PyTorch, and OpenCV. I am eager to contribute to a team that tackles challenging problems using cutting-edge technologies. My previous experience in logistics management has equipped me with strong analytical skills, problem-solving abilities, and the ability to work effectively in a team environment. I am dedicated to continuous learning and strive to stay at the forefront of data science advancements. 
 
-My hobbies: keywords, fillwords, Sudoku, strategic computer games. Paradox Interactive makes the best games. Love it so much. This allows you to grow above yourself, relieve stress, and take a breather after a difficult day at work. Develops the brain.
+Experience:
 
-Favorite movies: “The Imitation Game”, “Oppenheimer”, “A Beautiful Mind”. These are great films about scientists. All the characters in these films are data scientists in one way or another. It's nice to be part of those who are moving humanity into a bright future. Great for motivation!
+March 2023 – Present
 
-I love running, swimming, visiting museums and traveling with my family. Comprehensive rest allows me to maintain good spirits and motivation for myself and the whole team.
+Junior CV Engineer, OOO «Terra AI», Moscow
+
+• Developed a web application with a neural network for recognizing emergency calls and speech.
+• Developed an application for detecting personal protective equipment for workers in video surveillance systems using the YOLOv9 neural network and a user interface. Integrated it into Docker.
+• Participated in the development of a universal medical AI online assistant - an ensemble of classical and neural models.
+
+Key Skills:
+
+• Computer Vision: Object Detection, YOLOv9, OpenCV
+• Machine Learning: PyTorch, XGBoost, Deep Learning, Numpy, SciPy, Matplotlib
+• Data Science: pandas, PostgreSQL, REST API, FastAPI, Classification, LLM, Docker, Power BI
+• Programming: Python, Git, OOP
+• English: B2 (Intermediate-advanced)
+
+Education:
+
+• 2019: Saint Petersburg Economic College, Accounting, analysis and audit
+• 2016: Saint Petersburg Electromechanical College, Radio Mechanic
+• 2023: Data Science, neural networks, machine learning and artificial intelligence, University of Artificial Intelligence
+• 2022: Data Science Specialist, Yandex Practicum
+
+Strengths:
+
+• Experience working with neural networks, including YOLOv9, for Object Detection tasks.
+• Knowledge of Python, PyTorch, OpenCV, Docker.
+• Well-developed soft skills, experience working in a team and project management.
+
+Goal:
+
+To obtain a Junior Computer Vision Engineer position where I can apply my knowledge and skills to solve problems in the field of computer vision.
 
 ## Education
     
@@ -84,23 +113,11 @@ I love running, swimming, visiting museums and traveling with my family. Compreh
 ## Experience
 
 - 👨‍💻 **Data Science**\
-📆 may/2024 - moment\
-📍 **Icon Soft LLC** - Moscow, Russia
-
-- 👨‍💻 **Data Science**\
-📆 2024 - 2024\
-📍 **JSC Automobile Plant Ural** - Moscow, Russia
-
-- 👨‍💻 **Data Science**\
-📆 2023 - 2023\
-📍 **Ecosystem Alpha LLC** - Moscow, Russia
-
-- 👨‍💻 **Data Science**\
-📆 2022 - 2023\
-📍 **INO СPE Yandex EdTech** - Moscow, Russia
+📆 march/2023 - moment\
+📍 **Terra AI LLC** - Moscow, Russia
 
 - 👨‍💻 **Deputy warehouse manager**\
-📆 2020 - 2022\
+📆 2020 - 2023\
 📍 **GC EcoDorSnab** - Saint Petersburg, Russia
 
 </details>
