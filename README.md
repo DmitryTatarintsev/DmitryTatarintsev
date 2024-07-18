@@ -59,44 +59,36 @@
 
 Saint Petersburg, Russia | dtatarintsev@gmail.com | Telegram: @dtatarintsev
 
-About Me:
+**About Me:**
 
-I'm Dmitry Tatarintsev from St. Petersburg, Russia. 28 years old. I am a highly motivated data science enthusiast with 3 years of experience in various AI areas, including Computer Vision, Machine Learning, and Large Language Models. My passion for computer vision led me to pursue a Junior CV Engineer position, where I can leverage my skills in object detection, YOLOv9, PyTorch, and OpenCV. I am eager to contribute to a team that tackles challenging problems using cutting-edge technologies. My previous experience in logistics management has equipped me with strong analytical skills, problem-solving abilities, and the ability to work effectively in a team environment. I am dedicated to continuous learning and strive to stay at the forefront of data science advancements. 
+My name is Dmitry Tatarintsev. I am a highly motivated data science enthusiast with 3 years of experience in various AI areas, including Computer Vision, Machine Learning, and Large Language Models. My passion for computer vision led me to pursue a Junior CV Engineer position, where I can leverage my skills in object detection, YOLOv9, PyTorch, and OpenCV. I am eager to contribute to a team that tackles challenging problems using cutting-edge technologies. My previous experience in logistics management has equipped me with strong analytical skills, problem-solving abilities, and the ability to work effectively in a team environment. I am dedicated to continuous learning and strive to stay at the forefront of data science advancements. 
 
-Experience:
+**Experience:**
 
 March 2023 – Present
 
 Junior CV Engineer, OOO «Terra AI», Moscow
 
-• Developed a web application with a neural network for recognizing emergency calls and speech.
-• Developed an application for detecting personal protective equipment for workers in video surveillance systems using the YOLOv9 neural network and a user interface. Integrated it into Docker.
-• Participated in the development of a universal medical AI online assistant - an ensemble of classical and neural models.
+- Developed a web application with a neural network for recognizing emergency calls and speech.
 
-Key Skills:
+- Developed an application for detecting personal protective equipment for workers in video surveillance systems using the YOLOv9 neural network and a user interface. Integrated it into Docker.
 
-• Computer Vision: Object Detection, YOLOv9, OpenCV
-• Machine Learning: PyTorch, XGBoost, Deep Learning, Numpy, SciPy, Matplotlib
-• Data Science: pandas, PostgreSQL, REST API, FastAPI, Classification, LLM, Docker, Power BI
-• Programming: Python, Git, OOP
-• English: B2 (Intermediate-advanced)
+- Participated in the development of a universal medical AI online assistant - an ensemble of classical and neural models.
 
-Education:
+**Key Skills:**
 
-• 2019: Saint Petersburg Economic College, Accounting, analysis and audit
-• 2016: Saint Petersburg Electromechanical College, Radio Mechanic
-• 2023: Data Science, neural networks, machine learning and artificial intelligence, University of Artificial Intelligence
-• 2022: Data Science Specialist, Yandex Practicum
+- Computer Vision: Object Detection, YOLOv9, OpenCV
 
-Strengths:
+- Machine Learning: PyTorch, XGBoost, Deep Learning, Numpy, SciPy, Matplotlib
 
-• Experience working with neural networks, including YOLOv9, for Object Detection tasks.
-• Knowledge of Python, PyTorch, OpenCV, Docker.
-• Well-developed soft skills, experience working in a team and project management.
+- Data Science: pandas, PostgreSQL, REST API, FastAPI, Classification, LLM, Docker, Power BI
 
-Goal:
+- Programming: Python, Git, OOP
 
-To obtain a Junior Computer Vision Engineer position where I can apply my knowledge and skills to solve problems in the field of computer vision.
+- English: B2 (Intermediate-advanced)
+
+- Well-developed soft skills, experience working in a team and project management.
+
 
 ## Education
     
