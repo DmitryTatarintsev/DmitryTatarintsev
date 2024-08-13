@@ -31,6 +31,7 @@
   <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-4A8B99.svg?logo=Keras&logoColor=white"></a>
   <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-4A8B99.svg?logo=Pytorch&logoColor=white"></a>
   <a href="#"><img alt="statsmodels" src="https://img.shields.io/badge/statsmodels-4A8B99.svg?logo=statsmodels&logoColor=white"></a>
+  <a href="#"><img alt="Librosa" src="https://img.shields.io/badge/Librosa-4A8B99.svg?logo=Librosa&logoColor=white"></a>
   
 
 #### 🛠️ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀
@@ -40,6 +41,8 @@
   <a href="#"><img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-4A8B99.svg?logo=Powerbi&logoColor=white"></a>
   <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-4A8B99.svg?logo=docker&logoColor=white"></a>
   <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-4A8B99.svg?logo=Google-Colab&logoColor=white"></a>
+  <a href="#"><img alt="Roboflow" src="https://img.shields.io/badge/Roboflow-4A8B99.svg?logo=Roboflow&logoColor=white"></a>
+  <a href="#"><img alt="Ultralytics" src="https://img.shields.io/badge/Ultralytics-4A8B99.svg?logo=Ultralytics&logoColor=white"></a>
 
 --------------------------------
 
