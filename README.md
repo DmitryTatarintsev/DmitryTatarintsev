@@ -55,19 +55,19 @@
 
 <img align='right' src="https://github.com/DmitryTatarintsev/DmitryTatarintsev/blob/main/my-face.png" width="230" />
 
-**CV Engineer | Data Science Enthusiast**
+**Data Science Enthusiast**
 
 Saint Petersburg, Russia | dtatarintsev@gmail.com | Telegram: @dtatarintsev
 
 **About Me:**
 
-My name is Dmitry Tatarintsev. I am a highly motivated data science enthusiast with 3 years of experience in various AI areas, including Computer Vision, Machine Learning, and Large Language Models. My passion for computer vision led me to pursue a Junior CV Engineer position, where I can leverage my skills in object detection, YOLOv9, PyTorch, and OpenCV. I am eager to contribute to a team that tackles challenging problems using cutting-edge technologies. My previous experience in logistics management has equipped me with strong analytical skills, problem-solving abilities, and the ability to work effectively in a team environment. I am dedicated to continuous learning and strive to stay at the forefront of data science advancements. 
+My name is Dmitry Tatarintsev. I am a highly motivated data science enthusiast with 3 years of experience in various AI areas, including Computer Vision, Machine Learning, and Large Language Models. My passion for computer vision led me to pursue a Junior Data Scientist position, where I can leverage my skills. I am eager to contribute to a team that tackles challenging problems using cutting-edge technologies. My previous experience in logistics management has equipped me with strong analytical skills, problem-solving abilities, and the ability to work effectively in a team environment. I am dedicated to continuous learning and strive to stay at the forefront of data science advancements. 
 
 **Experience:**
 
 March 2023 – Present
 
-Junior CV Engineer, OOO «Terra AI», Moscow
+Junior Data Scientist, OOO «Terra AI», Moscow
 
 - Developed a web application with a neural network for recognizing emergency calls and speech.
 
@@ -77,11 +77,11 @@ Junior CV Engineer, OOO «Terra AI», Moscow
 
 **Key Skills:**
 
-- Computer Vision: Object Detection, YOLOv9, OpenCV
+- Computer Vision: Object Detection, YOLO, OpenCV
 
-- Machine Learning: PyTorch, XGBoost, Deep Learning, Numpy, SciPy, Matplotlib
+- Machine Learning: PyTorch, XGBoost, Numpy, SciPy, Matplotlib, Librosa
 
-- Data Science: pandas, PostgreSQL, REST API, FastAPI, Classification, LLM, Docker, Power BI
+- Data Science: Pandas, PostgreSQL, REST API, FastAPI, LangChain, Docker, Power BI
 
 - Programming: Python, Git, OOP
 
