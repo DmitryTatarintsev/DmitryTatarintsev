@@ -56,6 +56,20 @@
 <details>
 <summary><h2>About me</h2></summary>
 
+<details>
+<summary>Резюме на русском.</summary>
+
+Резюме: https://github.com/DmitryTatarintsev/Other-Projects/blob/main/Дмитрий%20Татаринцев.Data%20Scientist.Резюме.pdf
+
+<br>
+
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/DmitryTatarintsev/Other-Projects/blob/main/Дмитрий%20Татаринцев.Data%20Scientist.Резюме.pdf.png" alt="Image 1" style="width: auto; height: auto;">
+</div>
+
+
+</details>
+
 <img align='right' src="https://github.com/DmitryTatarintsev/DmitryTatarintsev/blob/main/my-face.png" width="230" />
 
 **Data Science Enthusiast**
@@ -92,6 +106,8 @@ Junior Data Scientist, OOO «Terra AI», Moscow
 
 - Well-developed soft skills, experience working in a team and project management.
 
+
+Check my projects [here](https://github.com/DmitryTatarintsev/Other-Projects).
 
 ## Education
     
