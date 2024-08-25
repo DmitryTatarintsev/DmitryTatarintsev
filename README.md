@@ -67,6 +67,7 @@
     <img src="https://github.com/DmitryTatarintsev/Other-Projects/blob/main/Дмитрий%20Татаринцев.Data%20Scientist.Резюме.pdf.png" alt="Image 1" style="width: auto; height: auto;">
 </div>
 
+Ознакомьтесь с моими проектами [здесь](https://github.com/DmitryTatarintsev/Other-Projects).
 
 </details>
 
