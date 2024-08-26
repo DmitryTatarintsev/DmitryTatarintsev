@@ -85,7 +85,7 @@ My name is Dmitry Tatarintsev. I am a highly motivated data science enthusiast w
 
 March 2023 – Present
 
-Junior Data Scientist, OOO «Terra AI», Moscow
+Data Scientist, OOO «Terra AI», Moscow
 
 - Developed a web application with a neural network for recognizing emergency calls and speech.
 
