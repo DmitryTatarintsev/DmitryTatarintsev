@@ -56,7 +56,6 @@
 <details>
 <summary><h2>About me</h2></summary>
 
-<details>
 <summary>Резюме на русском.</summary>
 
 Резюме: https://github.com/DmitryTatarintsev/Other-Projects/blob/main/Дмитрий%20Татаринцев.Data%20Scientist.Резюме.pdf
@@ -69,7 +68,6 @@
 
 Ознакомьтесь с моими проектами [здесь](https://github.com/DmitryTatarintsev/Other-Projects).
 
-</details>
 
 <img align='right' src="https://github.com/DmitryTatarintsev/DmitryTatarintsev/blob/main/my-face.png" width="230" />
 
